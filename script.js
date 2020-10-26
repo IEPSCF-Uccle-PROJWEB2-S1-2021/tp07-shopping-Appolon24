@@ -1,7 +1,7 @@
 // Écrivez votre code JavaScript ici.
     
 let clk = document.querySelector('button');
-let btn = document.querySelector('#input');
+let btn = document.querySelector('input');
 function operation()
 {
 let liste = document.getElementById('items').value;
